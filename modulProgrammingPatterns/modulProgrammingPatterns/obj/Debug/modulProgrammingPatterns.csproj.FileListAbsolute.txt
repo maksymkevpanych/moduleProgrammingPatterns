@@ -1,0 +1,8 @@
+C:\Users\Max\Desktop\modulProgrammingPatterns\modulProgrammingPatterns\bin\Debug\modulProgrammingPatterns.exe.config
+C:\Users\Max\Desktop\modulProgrammingPatterns\modulProgrammingPatterns\bin\Debug\modulProgrammingPatterns.exe
+C:\Users\Max\Desktop\modulProgrammingPatterns\modulProgrammingPatterns\bin\Debug\modulProgrammingPatterns.pdb
+C:\Users\Max\Desktop\modulProgrammingPatterns\modulProgrammingPatterns\obj\Debug\modulProgrammingPatterns.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\modulProgrammingPatterns\modulProgrammingPatterns\obj\Debug\modulProgrammingPatterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Desktop\modulProgrammingPatterns\modulProgrammingPatterns\obj\Debug\modulProgrammingPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\modulProgrammingPatterns\modulProgrammingPatterns\obj\Debug\modulProgrammingPatterns.exe
+C:\Users\Max\Desktop\modulProgrammingPatterns\modulProgrammingPatterns\obj\Debug\modulProgrammingPatterns.pdb
